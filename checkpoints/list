@@ -1,0 +1,7 @@
+https://download.openmmlab.com/mmflow/flownet2/flownet2css-sd_8x1_sfine_flyingthings3d_subset_chairssdhom_384x448.pth
+https://download.openmmlab.com/mmflow/gma/gma_8x2_120k_mixed_368x768.pth
+https://download.openmmlab.com/mmflow/irr/irrpwc_ft_4x1_300k_kitti_320x896.pth
+https://download.openmmlab.com/mmflow/liteflownet2/liteflownet2_ft_4x1_500k_kitti_320x896.pth
+https://download.openmmlab.com/mmflow/pwcnet/pwcnet_plus_8x1_750k_sintel_kitti2015_hd1k_320x768.pth
+https://download.openmmlab.com/mmflow/raft/raft_8x2_100k_mixed_368x768.pth
+https://download.openmmlab.com/mmflow/maskflownet/maskflownet_8x1_500k_flyingthings3d_subset_384x768.pth
