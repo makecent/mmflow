@@ -1,0 +1,9 @@
+Quality
+GMA = RAFT > Mask > PWC > Lite > Other
+
+Speed:
+PWC > FlowNet2 > Lite > Mask > RAFT = GMA
+
+Recommendation:
+On-line	PWC
+Off-line	GMA or RAFT
